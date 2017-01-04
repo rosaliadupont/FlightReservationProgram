@@ -1,0 +1,61 @@
+
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: 6 is not an available choice.
+Please try again.
+
+Please enter your choice: Your choice is invalid.
+Please try again.
+
+Please enter your choice: Your choice is invalid.
+Please try again.
+
+Please enter your choice: Your choice is invalid.
+Please try again.
+
+Please enter your choice: Flt# Origin               Destination
+118  San Francisco        Sacramento
+490  Sacramento           Reno
+561  Los Angeles          San Francisco
+768  Sacramento           Stockton
+
+Flight number (0 = exit): We do not have a flight number 234.
+Please try again.
+
+Flight number (0 = exit): Please enter the name of the passenger: ROW# ABCD
+ 1   XXX-
+ 2   -X-X
+ 3   ---X
+ 4   ---X
+ 5   -XX-
+ 6   XXX-
+ 7   XXXX
+ 8   X-XX
+
+X = reserved.
+
+Please enter the row of the seat you wish to reserve: There is no row #0 on this flight.
+Please try again.
+
+Please enter the row of the seat you wish to reserve: There is no row #9 on this flight.
+Please try again.
+
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: That seat is already occupied.
+Please try again.
+
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: 
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Goodbye.

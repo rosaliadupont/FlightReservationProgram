@@ -1,0 +1,100 @@
+
+Flight number (0 = exit): Please enter the name of the passenger: ROW# AB
+ 1   XX
+ 2   XX
+ 3   XX
+ 4   XX
+ 5   XX
+ 6   XX
+ 7   X-
+
+X = reserved.
+
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: 
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Flt# Origin               Destination
+118  San Francisco        Sacramento
+490  Sacramento           Reno
+561  Los Angeles          San Francisco
+768  Sacramento           Stockton
+
+Flight number (0 = exit): Please enter the name of the passenger: ROW# ABCDEF
+ 1   XXX-XX
+ 2   XXXX-X
+
+X = reserved.
+
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: 
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Flt# Origin               Destination
+118  San Francisco        Sacramento
+490  Sacramento           Reno
+561  Los Angeles          San Francisco
+768  Sacramento           Stockton
+
+Flight number (0 = exit): Please enter the name of the passenger: ROW# ABCD
+ 1   XXXX
+ 2   -X-X
+ 3   ---X
+ 4   ---X
+ 5   -XX-
+ 6   XXX-
+ 7   XXXX
+ 8   X-XX
+
+X = reserved.
+
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: 
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Flt# Origin               Destination
+118  San Francisco        Sacramento
+490  Sacramento           Reno
+561  Los Angeles          San Francisco
+768  Sacramento           Stockton
+
+Flight number (0 = exit): Please enter the name of the passenger: ROW# ABCD
+ 1   XXXX
+ 2   -X-X
+ 3   ---X
+ 4   ---X
+ 5   -XX-
+ 6   XXX-
+ 7   XXXX
+ 8   XXXX
+
+X = reserved.
+
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: That seat is already occupied.
+Please try again.
+
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: 
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Goodbye.

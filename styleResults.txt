@@ -1,0 +1,27 @@
+Processing :  /home/rodupont/ecs40/p5/p5/p5/flights.cpp
+Processing :  /home/rodupont/ecs40/p5/p5/p5/flights.h
+Processing :  /home/rodupont/ecs40/p5/p5/p5/flight.cpp
+Processing :  /home/rodupont/ecs40/p5/p5/p5/flight.h
+Processing :  /home/rodupont/ecs40/p5/p5/p5/linkedlist.cpp
+Processing :  /home/rodupont/ecs40/p5/p5/p5/linkedlist.h
+Processing :  /home/rodupont/ecs40/p5/p5/p5/passenger.cpp
+Processing :  /home/rodupont/ecs40/p5/p5/p5/passenger.h
+Processing :  /home/rodupont/ecs40/p5/p5/p5/plane.cpp
+Processing :  /home/rodupont/ecs40/p5/p5/p5/plane.h
+Processing :  /home/rodupont/ecs40/p5/p5/p5/utilities.cpp
+Processing :  /home/rodupont/ecs40/p5/p5/p5/utilities.h
+Processing :  /home/rodupont/ecs40/p5/p5/p5/main.cpp
+
+
+=================================== Summary Report ===================================
+ ** Total Available Rules     : 52
+ ** Total Applied Rules       : 30
+ ** Total Violated Rules      : 0
+ ** Total Errors Occurs       : 0
+ ** Total Analyzed Files      : 13
+ ** Total Violated Files Count: 0
+ ** Build Quality             : 100.00%
+
+================================ Violated Rule Details ===============================
+
+================================ Violated File Details ===============================

@@ -1,0 +1,100 @@
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: 
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Existing Flights:
+
+Flt# Origin               Destination
+118  San Francisco        Sacramento
+490  Sacramento           Reno
+561  Los Angeles          San Francisco
+768  Sacramento           Stockton
+
+Flight number of passenger remove: Passengers on Flight #768
+Zhong,Maung
+Li,Paige
+Wongso,Lena
+Chang,Lacey
+Miyashita,Zhe
+Senin,Rosalia
+Canfield,Adeline
+Guo,Rachel
+Gosiaco,Deborah
+Gounder,Rahul
+Gulati,Yuanbo
+Antonious,Yanxi
+Alcantar,Abril
+Banchero,Tia
+Castaneda,Hasith
+Kwak,Dongzhao
+Loyola,Jin Lin
+Ly,Sean
+Yao,Andreea
+
+Name of passenger to remove: 
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Flt# Origin               Destination
+118  San Francisco        Sacramento
+490  Sacramento           Reno
+561  Los Angeles          San Francisco
+768  Sacramento           Stockton
+
+Flight number (0 = exit): Please enter the name of the passenger: ROW# ABCD
+ 1   XXX-
+ 2   -X-X
+ 3   ---X
+ 4   ---X
+ 5   -XX-
+ 6   X-X-
+ 7   XXXX
+ 8   X-XX
+
+X = reserved.
+
+Please enter the row of the seat you wish to reserve: Please enter the seat letter you wish to reserve: 
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: 
+Name of passenger: Simpson,Bar not found.
+
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: 
+Name of passenger: Flight #118 Row: 3 Seat: A
+Flight #490 Row: 7 Seat: B
+Flight #561 Row: 2 Seat: E
+Flight #768 Row: 6 Seat: B
+
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Goodbye.

@@ -1,0 +1,5 @@
+Style: 6 out of 6
+Design: 28 out of 28 
+Operation: 16 out of 16 
+Warnings (subtracted from final score down to zero): 0
+Total: 50 out of 50.

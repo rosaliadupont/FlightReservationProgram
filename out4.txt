@@ -1,0 +1,21 @@
+
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: 
+Name of passenger: Flight #561 Row: 2 Seat: B
+
+ECS Flight Reservation Menu
+0. Exit.
+1. Add Passenger.
+2. Remove Passenger.
+3. Add Flight.
+4. Remove Flight.
+5. Find Passenger.
+
+Please enter your choice: Goodbye.
